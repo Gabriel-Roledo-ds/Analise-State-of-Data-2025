@@ -1,4 +1,6 @@
 # State of Data Brasil 2025/2026 — Análise Exploratória
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Roledo-ds/Analise-State-of-Data-2025/blob/main/Mercado_de_dados_SoD.ipynb)
+
 
 Projeto de portfólio com uma análise exploratória e descritiva completa da pesquisa **State of Data Brasil 2025/2026** (Data Hackers/Kaggle), cobrindo desde a ingestão e tratamento dos dados até a extração de insights sobre o perfil profissional, tecnológico e salarial de quem trabalha (ou busca trabalhar) com dados no Brasil.
 
@@ -32,7 +34,6 @@ Realizar uma análise exploratória e descritiva orientada a insights relevantes
 
 Um ponto central do tratamento de dados neste projeto: a maior parte das colunas do dataset (~80%) são variáveis binárias (0/1/NaN) originadas da decomposição de perguntas de múltipla escolha. Foi identificado e validado que o `NaN` nessas colunas representa, em sua maioria, **skip pattern** (o respondente não foi exposto à pergunta) — e não dado ausente por erro de coleta. Essa distinção é essencial para o cálculo correto de qualquer percentual ao longo da análise.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Roledo-ds/Analise-State-of-Data-2025/blob/main/Mercado_de_dados_SoD.ipynb)
 
 ## Ferramentas
 
