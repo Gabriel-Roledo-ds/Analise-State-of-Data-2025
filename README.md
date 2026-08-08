@@ -4,7 +4,7 @@ Projeto de portfólio com uma análise exploratória e descritiva completa da pe
 
 O foco do projeto é demonstrar o **processo analítico de ponta a ponta** — não apenas o resultado final — seguindo a metodologia **CRISP-DM**, com atenção especial a decisões de tratamento de dados que impactam diretamente a qualidade dos insights.
 
-📓 [Abrir notebook no Google Colab](https://colab.research.google.com/github/Gabriel-Roledo-ds/Analise-State-of-Data-2025/blob/main/Mercado_de_dados_SoD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Roledo-ds/Analise-State-of-Data-2025/blob/main/Mercado_de_dados_SoD.ipynb)
 
 ## Sobre os dados
 
